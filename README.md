@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Bug 🐞
+ironically, i hate bugs. i try to code in dark mode to attract fewer bugs but it doesnt work that well.
+
+### Bug can do...
+bug can code in python, c++ and js. bug can do simple web dev. bug can ruin your code. 
 
 <!--
 **BugEatBugWorld/BugEatBugWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
